@@ -1,0 +1,4 @@
+[package]
+name = "xmas_present"
+version = "0.0.1"
+authors = ["Evan Shrubsole <evanshrubsole@gmail.com>"]
